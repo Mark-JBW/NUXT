@@ -18,7 +18,7 @@
     "less": "^3.9.0",
     "less-loader": "^5.0.0",
     "nuxt": "^2.4.0",
-    "vant": "^1.6.19",
+    "vant": "^2.1.8",
     "vuex-persistedstate": "^2.5.4"
   },
   "devDependencies": {
